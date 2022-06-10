@@ -14,7 +14,6 @@ body{
 
 #container{
     display: flex;
-
 }
 
 #recent-logins{
@@ -59,7 +58,6 @@ body{
     margin-right: 10px;
     border-radius: 5px;
     margin-right: 20px;
-
 }
 
 #card-1:hover, #card-2:hover{
